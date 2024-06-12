@@ -1,14 +1,15 @@
-import re
 import os
+import re
 from os import getenv
+
 from dotenv import load_dotenv
 from pyrogram import filters
 
 load_dotenv()
-
 # Get this value from my.telegram.org/apps
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
+
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 
@@ -18,13 +19,35 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 
 # Chat id of a group for logging bot's activities
+
+
+EXTRA_PLUGINS = getenv(
+    "EXTRA_PLUGINS",
+    "True",
+)
+
+# Fill True if you want to load extra plugins
+
+
+EXTRA_PLUGINS_REPO = getenv(
+    "EXTRA_PLUGINS_REPO",
+    "https://github.com/Silentsmile29/TamannaMusic-PLUGIN",
+)
+# Fill here the external plugins repo where plugins that you want to load
+
+
+EXTRA_PLUGINS_FOLDER = getenv("EXTRA_PLUGINS_FOLDER", "plugins")
+
+# Your folder name in your extra plugins repo where all plugins stored
+
+
 LOGGER_ID = int(getenv("LOGGER_ID"))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002110912467"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID"))
 
-## Fill these variables if you're deploying on heroku.
+# Fill these variables if you're deploying on heroku.
 # Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
@@ -43,25 +66,35 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_DW_l")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/lI_HEERIYE_ll")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
-SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
+SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "100"))
 
-# MaximuM limit for fetching playlist's track from youtube, spotify, apple links.
-PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
-# Set this to True if you want the assistant to automatically leave chats after an interval
+RADIO_URL = getenv("RADIO_URL", "http://peridot.streamguys.com:7150/Mirchi")
+
+# Don't fill here any YouTube link fill here any direct acessable audio link
+
+# MaximuM limit for fetching playlist's track from youtube, spotify, apple
+# links.
+PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "100"))
+# Set this to True if you want the assistant to automatically leave chats
+# after an interval
 AUTO_LEAVING_ASSISTANT = False
 
-#Auto Gcast/Broadcast Handler (True = broadcast on , False = broadcast off During Hosting, Dont Do anything here.)
+# Auto Gcast/Broadcast Handler, Write:- [On / Off] During Hosting, Dont Do
+# anything here.)
 AUTO_GCAST = os.getenv("AUTO_GCAST")
 
-#Auto Broadcast Message That You Want Use In Auto Broadcast In All Groups.
+# Auto Broadcast Message That You Want Use In Auto Broadcast In All Groups.
 AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Get this credentials from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "19609edb1b9f4ed7be0c8c1342039362")
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "409e31d3ddd64af08cfcc3b0f064fcbe")
+SPOTIFY_CLIENT_SECRET = getenv(
+    "SPOTIFY_CLIENT_SECRET", "409e31d3ddd64af08cfcc3b0f064fcbe"
+)
 
 
-# Maximum limit for fetching playlist's track from youtube, spotify, apple links.
+# Maximum limit for fetching playlist's track from youtube, spotify, apple
+# links.
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 2500))
 
 
@@ -75,21 +108,20 @@ AUTO_SUGGESTION_TIME = int(
     getenv("AUTO_SUGGESTION_TIME", "3")
 )  # Remember to give value in Seconds
 
-# Set it True if you want to bot to suggest about bot commands to random chats of your bots.
+# Set it True if you want to bot to suggest about bot commands to random
+# chats of your bots.
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
 # Cleanmode time after which bot will delete its old messages from chats
 CLEANMODE_DELETE_MINS = int(
     getenv("CLEANMODE_MINS", "5")
 )  # Remember to give value in Seconds
 
-# Get your pyrogram v2 session from @VIP_STRING_ROBOT on Telegram
+# Get your pyrogram v2 session  on Telegram
 STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
-  
-
 
 
 
