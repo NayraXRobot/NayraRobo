@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Silentsmile29/TamannaMusic",
+    "https://github.com/NayraXRobot/NayraRobo",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_DW_l")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/lI_HEERIYE_ll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_TERI_MERI_BAATE_l")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ll_P_U_L_lI")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
@@ -106,21 +106,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/e642e121a9d93e1ac13ca.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-STATS_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-STREAM_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
 
 
 def time_to_seconds(time):
