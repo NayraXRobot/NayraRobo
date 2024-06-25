@@ -66,7 +66,7 @@ async def ping_com(client, message: Message, _):
         user_command_count[user_id] = 1
         user_last_message_time[user_id] = current_time
 
-    PING_IMG_URL = "https://graph.org/file/e642e121a9d93e1ac13ca.jpg"
+    PING_IMG_URL = "https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg"
     captionss = "**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
     response = await message.reply_photo(PING_IMG_URL, caption=(captionss))
     await asyncio.sleep(1)
@@ -102,10 +102,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/lI_HEERIYE_ll",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/ll_P_U_L_lI",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/l_DW_l",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/AboutshayarAkhawab",
             )
         ],
         [
