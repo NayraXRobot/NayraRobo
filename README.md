@@ -19,7 +19,7 @@
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝙉𝙖𝙮𝙧𝙖+✗+𝙍𝙤𝙗𝙤𝙩+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝙉𝙖𝙮𝙧𝙖+𝙍𝙤𝙗𝙤𝙩+🎭">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -28,11 +28,11 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silentsmile29&repo=TamannaMusic&theme=flag-india)
 
 [![GIF](https://github.com/Silentsmile29/TamannaMusic/blob/main/Silentsmile29.gif)](https://github.com/Silentsmile29)
-   [![𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐌𝐔𝐒𝐈𝐂](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")
+   [![𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")
 
 
 <p align="center">
-  <img src="https://graph.org/file/265edcea4b5fd02c189f0.jpg">
+  <img src="https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩](https://t.me/Shayarmusic_bot)**
