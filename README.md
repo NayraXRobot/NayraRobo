@@ -15,11 +15,11 @@
 
 
 <h2 align="center">
-    ─「 𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝚨𝐌𝚨𝐍𝐍𝚨+𝐌𝐔𝐒𝐈𝐂+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝙉𝙖𝙮𝙧𝙖+✗+𝙍𝙤𝙗𝙤𝙩+🎭">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -35,7 +35,7 @@
   <img src="https://graph.org/file/265edcea4b5fd02c189f0.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐑𝐎𝐁𝐎𝐓](https://t.me/TAMANNA_MUSIC_ROBOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩](https://t.me/Shayarmusic_bot)**
 
 
 
@@ -56,7 +56,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+Silent+DM+...">
 <p align="center">
-<a href="https://telegram.me/THE_VIP_BOY"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 Silent Smile%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_ZIDDI_SHAYAR_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 Silent Smile%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -90,7 +90,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/ll_TANU_ROM_ll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/SHAYARAKHAWAB"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://instagram.com/silent_smile_04"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
